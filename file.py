@@ -3,3 +3,4 @@ for i in x :
 	print(i)
 
 print("that's a lot of number")
+import pandas as pd
