@@ -3,3 +3,4 @@ for i,j in enumerate(x) :
 	print(i*j)
 
 print("that's a lot of number+")
+print(i)
