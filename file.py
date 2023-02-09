@@ -4,4 +4,3 @@ for i in x :
 
 print("that's a lot of number")
 
-import numpy as np
